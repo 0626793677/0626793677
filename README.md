@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0626793677
+- 👋 Hi, I’m @tito
 - 👀 I’m interested in code writing
 - 🌱 I’m currently learning different codes
 - 💞️ I’m looking to collaborate on codes learning
